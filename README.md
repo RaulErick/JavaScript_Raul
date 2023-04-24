@@ -1,6 +1,6 @@
 # JavaScript_Raul
  
- <img src="bandeiraBrasil.jpeg" align="right" width="300">
+ <img src="JavaScript.png" align="right" width="300">
 
 # Descrição
 
